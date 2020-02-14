@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">calendarEx</string>
+    <string name="days">일\t월\t화\t수\t목\t금\t토"</string>
+</resources>
